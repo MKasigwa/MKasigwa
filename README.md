@@ -1,7 +1,16 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is ***Miracle Kasigwa***. <br>
-I'm a Fullstack software engineer currently not employed. <br> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm a Fullstack software engineer currently not employed. 
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/pacifique-linjanja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pacifiquelinjanja-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/linjanjapacifique/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-linjanjapacifique__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:miraclekasigwa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-miraclekasigwa@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+</p>
+
 
 ## &#x270d; Blog & Writing
 
