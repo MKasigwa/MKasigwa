@@ -66,7 +66,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 - I’m currently working on [molahealth.com](https://www.molahealth.com/)
 - I'm currently leveraging my knowledge & experience on blockchain technologies.
 - I'm currently more active on [gitLab](https://gitlab.com/mkasigwa)
-- Let's get in touch: [mkasigwa.com/contact](https://mkasigwa.com)
+- I’m looking to collaborate on Open Source Projects
+- Want to reach out: [www.mkasigwa.com](www.mkasigwa.com)
 
 ![Profile views](https://gpvc.arturio.dev/mkasigwa)
 
