@@ -16,10 +16,10 @@ I'm a Fullstack software engineer currently not employed.
 
 
 
-## &#x270d; Blog & Writing
+<!-- ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [nkpremices.com/tag/blog](https://nkpremices.com/tag/blog).
-
+ -->
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/mkasigwa/mkasigwa">
