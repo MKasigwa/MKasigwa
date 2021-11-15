@@ -1,7 +1,7 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is ***Miracle Kasigwa***. <br>
-I'm a Fullstack software engineer currently not employed. 
+I'm a Fullstack software engineer currently employed at code-hack-gurus. 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
