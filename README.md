@@ -7,7 +7,7 @@ I'm a Fullstack software engineer currently employed at code-hack-gurus.
 
 <p align="left">
 <a href="https://linkedin.com/in/mkasigwa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mkasigwa-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/miraclekasigwa/"><img alt="Instagram" src="https://img.shields.io/badge/Whatsapp-+243974734966-blue?style=flat-square&logo=whatsapp"></a>
+<a href="https://twitter.com/Mkasigwa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@MKasigwa-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:miraclekasigwa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-miraclekasigwa@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 <a href="https://facebook.com/miraclekasi/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-miraclekasi-blue?style=flat-square&logo=facebook"></a>
 <!-- </p>
