@@ -28,7 +28,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <br>
 <br>
 <a href="https://github.com/mkasigwa/mkasigwa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkasigwa" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkasigwa&show_icons=true&count_private=true" />
 </a>
 
 <!-- links to social media icons -->
