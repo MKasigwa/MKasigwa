@@ -3,6 +3,15 @@
 My name is ***Miracle Kasigwa***. <br>
 I'm a Fullstack software engineer currently employed at code-hack-gurus ! 
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | Spring boot | JavaScript | Typescript | React & Redux | TypeORM | Node.js & ExpressJs
+- 🌐 &nbsp; HTML | CSS | Tailwind CSS | Ant Design | JavaScript | Bootstrap ReactJS
+- 🛢 &nbsp; MySQL | PostgeSQL | SQL Server | PouchDb | CouchDb | sqlite
+- 🔧 &nbsp; Git | GitHub | GitLab | GitFlow
+<br/>
+
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
