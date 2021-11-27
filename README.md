@@ -7,7 +7,7 @@ I'm a Fullstack software engineer currently employed at code-hack-gurus !
 
 - 💻 &nbsp; Java | Spring boot | JavaScript | Typescript | React & Redux | TypeORM | Node.js & ExpressJs
 - 🌐 &nbsp; HTML | CSS | Tailwind CSS | Ant Design | JavaScript | Bootstrap ReactJS
-- 🛢 &nbsp; MySQL | PostgeSQL | SQL Server | PouchDb | CouchDb | sqlite
+- 🛢 &nbsp; MySQL | PostgeSQL | SQL Server | CouchDb | sqlite
 - 🔧 &nbsp; Git | GitHub | GitLab | GitFlow
 <br/>
 
