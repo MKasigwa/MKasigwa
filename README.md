@@ -2,6 +2,7 @@
 
 My name is ***Miracle Kasigwa***. <br>
 I'm a Fullstack software engineer currently employed at code-hack-gurus ! 
+<br/>
 
 <h3>🛠 Tech Stack</h3>
 
