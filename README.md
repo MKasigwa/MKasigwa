@@ -8,7 +8,7 @@ I'm a Fullstack software engineer currently employed at [EVER TECHNOLOGIES LTD](
 
 - 💻 &nbsp; Java | Spring boot | JavaScript | Typescript | React & Redux | TypeORM | Node.js & ExpressJs | NestJS
 - 🌐 &nbsp; HTML | CSS | Tailwind CSS | Ant Design | JavaScript | Bootstrap ReactJS
-- 🛢 &nbsp; Sqllite | MySQL | PostgeSQL | SQL Server | Oracle DB
+- 🛢 &nbsp; Sqllite | MySQL | PostgeSQL | SQL Server
 - 🔧 &nbsp; Git | GitHub | GitLab | GitFlow
 <br/>
 
