@@ -1,7 +1,11 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is ***Miracle Kasigwa***. <br>
-I'm a Fullstack software engineer currently employed at [Ever Co. LTD](https://ever.co/) and code-hack-gurus
+I'm a Fullstack software engineer currently employed at [Ever Co. LTD](https://ever.co/) and code-hack-gurus.
+<br/>
+
+I have a focus on backend development with Java Springboot and Javascript frameworks (Nest JS);
+I am passionate about fast, performant, and reusable web technologies for frontend development that include Next.js and React.
 <br/>
 
 <h3>🛠 Tech Stack </h3>
