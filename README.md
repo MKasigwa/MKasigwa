@@ -81,7 +81,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 - I’m currently working on [gauzy.co](https://gauzy.co/)
 - I'm currently leveraging my knowledge & experience on blockchain technologies.
-- I'm currently more active on [gitLab](https://gitlab.com/mkasigwa)
 - I’m looking to collaborate on Open Source Projects
 - Want to reach out: [www.mkasigwa.com](www.mkasigwa.com)
 
