@@ -13,13 +13,13 @@ I am passionate about fast, performant, and reusable web technologies for fronte
 - 💻 &nbsp; Java | Spring boot | JavaScript | Typescript | React & Redux | Angular | TypeORM | Node.js & ExpressJs | NestJS | Next.js
 - 🌐 &nbsp; HTML | CSS | Tailwind CSS | Ant Design | JavaScript | Bootstrap ReactJS
 - 🛢 &nbsp; Sqllite | MySQL | PostgeSQL | SQL Server | MongoDB
-- 🔧 &nbsp; Git | GitHub | GitLab |GitFlow
+- 🔧 &nbsp; Git | GitHub | GitLab | GitFlow
 
 <br/>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-
+ 
 <p align="left">
 <a href="https://linkedin.com/in/mkasigwa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mkasigwa-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/Mkasigwa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@MKasigwa-blue?style=flat-square&logo=twitter"></a>
