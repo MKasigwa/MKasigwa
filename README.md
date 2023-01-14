@@ -24,7 +24,7 @@ I am passionate about fast, performant, and reusable web technologies for fronte
 <a href="https://linkedin.com/in/mkasigwa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mkasigwa-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/Mkasigwa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@MKasigwa-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:miraclekasigwa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-miraclekasigwa@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
-<a href="https://facebook.com/miraclekasi/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-miraclekasi-blue?style=flat-square&logo=facebook"></a>
+<a href="https://facebook.com/miraclekasi/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-miraclekasi-blue?style=flat-square&logo=facebook"> </a>
  
 <!-- </p>
 <a href="mailto:miraclekasigwa@gmail.com"><img alt="Whatsapp" src="https://img.shields.io/badge/Email-miraclekasigwa@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a> -->
