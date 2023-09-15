@@ -13,7 +13,7 @@ I am passionate about fast, performant, and reusable web technologies for fronte
 - 💻 &nbsp; Java | Spring boot | JavaScript | Typescript | React & Redux | Angular | TypeORM | Node.js & ExpressJs | NestJS | Next.js
 - 🌐 &nbsp; HTML | CSS | Tailwind CSS | Ant Design | JavaScript | Bootstrap ReactJS
 - 🛢 &nbsp; Sqllite | MySQL | PostgeSQL | SQL Server | MongoDB
-- 🔧 &nbsp; Git | GitHub | GitLab |GitFlow
+- 🔧 &nbsp; Git | GitHub | GitLab |G itFlow
 
 <br/>
 
