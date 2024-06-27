@@ -8,6 +8,8 @@ I have a focus on backend development with Java Springboot and Javascript framew
 I am passionate about fast, performant, and reusable web technologies for frontend development that include Next.js and React.
 <br/>
 
+Verified Certificate Of Nanodegree Program Completion [Data Scientist](https://www.udacity.com/certificate/e/63f55412-95ab-11ee-baf5-8320913da0ff) 
+
 <h3>🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Java | Spring boot | JavaScript | Typescript | React & Redux | Angular | TypeORM | Node.js & ExpressJs | NestJS | Next.js
